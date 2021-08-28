@@ -1,2 +1,2 @@
 # chat-system
-chatting in local area network trough terminla
+chatting in local area network trough terminal
